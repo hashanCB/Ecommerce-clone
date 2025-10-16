@@ -4,8 +4,7 @@ This is a simple e-commerce clone project built with Next.js and TypeScript.
 
 ## Product List Page
 
-![Product List Page Screenshot](<Screenshot placeholder>)
-
+<img width="1435" height="731" alt="ProducatList" src="https://github.com/user-attachments/assets/427b1535-7635-480d-9208-0fc3e481ad65" />
 ## Getting Started
 
 First, run the development server:
