@@ -58,7 +58,8 @@ export const Products = [
   "images": ["/Prodcuts/1/2.webp", "/Prodcuts/1/2.webp"],
   "New": true,
   "Instalment": 1167,
-  "metirial": "/Prodcuts/1/metirial.webp"
+  "metirial": "/Prodcuts/1/metirial.webp",
+  "size": ["UK8", "UK10", "UK12"]
 },
   {
   "id": 7,
@@ -119,7 +120,8 @@ export const Products = [
   "images": ["/Prodcuts/2/1.webp", "/Prodcuts/2/2.webp","/Prodcuts/2/3.webp", "/Prodcuts/2/4.webp"],
   "New": true,
   "Instalment": 1400,
-  "metirial": "/Prodcuts/2/metirial.webp"
+  "metirial": "/Prodcuts/2/metirial.webp",
+  "size": ["UK8", "UK10", "UK12", "UK14"]
 },
   {
   "id": 2,
@@ -180,7 +182,8 @@ export const Products = [
    "images": ["/Prodcuts/3/1.webp", "/Prodcuts/3/2.webp","/Prodcuts/3/3.webp", "/Prodcuts/3/4.webp"],
    "New": true,
    "Instalment": 1833,
-   "metirial": "/Prodcuts/3/metirial.webp"
+   "metirial": "/Prodcuts/3/metirial.webp",
+   "size": ["UK10", "UK12", "UK14"]
 },
   {
   "id": 3,
@@ -241,7 +244,8 @@ export const Products = [
    "images": ["/Prodcuts/4/1.webp", "/Prodcuts/4/2.webp","/Prodcuts/4/3.webp", "/Prodcuts/4/4.webp"],
    "New": true,
    "Instalment": 1267,
-   "metirial": "/Prodcuts/4/metirial.webp"
+   "metirial": "/Prodcuts/4/metirial.webp",
+   "size": ["UK8", "UK10", "UK12", "UK14", "UK16"]
 },
   {
   "id": 4,
@@ -302,7 +306,8 @@ export const Products = [
   "images": ["/Prodcuts/5/1.webp", "/Prodcuts/5/2.webp","/Prodcuts/5/3.webp", "/Prodcuts/5/4.webp"],
   "New": false,
   "Instalment": 1600,
-  "metirial": "/Prodcuts/5/metirial.webp"
+  "metirial": "/Prodcuts/5/metirial.webp",
+  "size": ["UK8", "UK10"]
 },
   {
   "id": 5,
@@ -363,7 +368,8 @@ export const Products = [
    "images": ["/Prodcuts/6/1.webp", "/Prodcuts/6/2.webp","/Prodcuts/6/3.webp", "/Prodcuts/6/4.webp"],
    "New": false,
    "Instalment": 2167,
-   "metirial": "/Prodcuts/6/metirial.webp"
+   "metirial": "/Prodcuts/6/metirial.webp",
+   "size": ["UK12", "UK14", "UK16"]
 },
   {
   "id": 6,
@@ -424,7 +430,8 @@ export const Products = [
     "images": ["/Prodcuts/7/1.webp", "/Prodcuts/7/2.webp","/Prodcuts/7/3.webp", "/Prodcuts/7/4.webp"],
     "New": false,
     "Instalment": 2400,
-    "metirial": "/Prodcuts/7/metirial.webp"
+    "metirial": "/Prodcuts/7/metirial.webp",
+    "size": ["UK8", "UK10", "UK12"]
 },
   {
   "id": 8,
@@ -485,6 +492,7 @@ export const Products = [
     "images": ["/Prodcuts/8/1.webp", "/Prodcuts/8/2.webp","/Prodcuts/8/3.webp", "/Prodcuts/8/4.webp"],
     "New": false,
     "Instalment": 2600,
-    "metirial": "/Prodcuts/8/metirial.webp"
+    "metirial": "/Prodcuts/8/metirial.webp",
+    "size": ["UK12", "UK14", "UK16"]
 }
 ]

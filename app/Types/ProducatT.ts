@@ -45,4 +45,5 @@ export type ProductT = {
   New: boolean;
   Instalment: number;
   metirial: string;
+  size: string[];
 };

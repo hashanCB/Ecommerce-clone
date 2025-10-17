@@ -3,3 +3,8 @@
 .div-primany {
     @apply text-[12px] font-black
 }
+
+
+.buttontext {
+    @apply p-1 border-1  rounded-md  text-[12px] cursor-pointer hover:bg-black/70 text-black hover:text-white font-semibold
+}
