@@ -2,6 +2,12 @@
 
 This is a simple e-commerce clone project built with Next.js and TypeScript.
 
+##Card Portal View
+## 2025-0ct -21
+
+<img width="1433" height="713" alt="Screenshot 2025-10-21 at 10 32 31" src="https://github.com/user-attachments/assets/dfaca686-5a15-43f9-bc09-804d91f8f837" />
+
+
 ## Product List Page
 ## 2025-0ct -17
 <img width="1434" height="721" alt="Screenshot 2025-10-17 at 11 07 08" src="https://github.com/user-attachments/assets/12327cd4-1263-4a24-a0ad-f767e10c0917" />
