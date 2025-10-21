@@ -16,7 +16,8 @@
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-redux": "^9.2.0",
-    "react-use": "^17.6.0"
+    "react-use": "^17.6.0",
+    "react-useportal": "^1.0.19"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
